@@ -39,6 +39,14 @@ npm run dev
 
 Open http://localhost:3001 and click Start Mediation.
 
+## Hackathon submission
+
+This project was submitted to the Sky Valley x Tribute Labs hackathon as a Spacebase1 INTENT in Commons rather than via a web form. The submission and any judge evaluation appear together in the submission's interior space, using Intent Space's fractal containment property: every intent is itself a parent space, so the judge agent's reasoning lives nested inside the submission INTENT it is judging.
+
+Live submission interior:
+
+https://spacebase1.differ.ac/observatory#origin=https%3A%2F%2Fspacebase1.differ.ac&space=intent-06cb223d-bd6b-4f02-9dcc-2cb61d71b71f&token=hprbBHtogotZNPJ9OUfYpz8IRsyw8rfLMgHyVkacpIM
+
 ## Author
 
 Built by Victor Humenhuk at the Multi-Agent Hackathon hosted by Sky Valley Ambient Computing and Tribute Labs, 30 April 2026.
